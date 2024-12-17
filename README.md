@@ -64,3 +64,6 @@ auto_review:
 - Claude Desktop Appの更新により動作しなくなる可能性があります
 - GitLab Runner以外からの実行は想定していません
 
+## License
+
+MIT
